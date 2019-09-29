@@ -1,0 +1,13 @@
+chrome://extensions/
+https://twist.moe/a/3-gatsu-no-lion/1
+https://www.w3schools.com/js/js_string_methods.asp
+https://thoughtbot.com/blog/how-to-make-a-chrome-extension
+https://www.google.com/search?q=add+popup+chrome+extension&oq=add+popup+exte&aqs=chrome.1.69i57j0l2.13231j1j7&sourceid=chrome&ie=UTF-8
+https://stackoverflow.com/questions/3829150/google-chrome-extension-console-log-from-background-page
+https://developer.chrome.com/extensions/getstarted
+https://rapidapi.com/mikilior1/api/Anilist?endpoint=apiendpoint_005b2350-f967-11e7-ad25-23774776ae8feditAnimeListEntry
+https://stackoverflow.com/questions/24468459/sending-a-json-to-server-and-retrieving-a-json-in-return-without-jquery
+http://xahlee.info/js/js_get_elements.html
+https://stackoverflow.com/questions/2914973/how-to-grab-data-from-webpage-in-chrome-and-output-into-chrome-extension-popup
+https://developer.chrome.com/extensions/messaging
+https://www.google.com/search?q=sendmessage+chrome+extension&oq=sendmessage+chrome&aqs=chrome.0.0j69i57j0l4.5031j1j7&sourceid=chrome&ie=UTF-8
